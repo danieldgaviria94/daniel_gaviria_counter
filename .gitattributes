@@ -1,6 +1,8 @@
-android/** linguist-generated=true
-ios/** linguist-generated=true
-linux/** linguist-generated=true
-macos/** linguist-generated=true
-windows/** linguist-generated=true
-web/** linguist-generated=true
+*.cpp linguist-vendored
+*.cc linguist-vendored
+*.c linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+CMakeLists.txt linguist-vendored
+
+*.dart linguist-language=Dart
