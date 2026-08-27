@@ -4,3 +4,5 @@ linux/** linguist-vendored
 macos/** linguist-vendored
 windows/** linguist-vendored
 web/** linguist-vendored
+
+*.dart linguist-language=Dart
